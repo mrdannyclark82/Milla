@@ -1,0 +1,19 @@
+url: https://raw.githubusercontent.com/mrdannyclark82/milla-deer/3f523dc8ae9b0c1910656e3c5ebf6d70e97433f8/.eslintrc.json
+
+{
+  "extends": [
+    "eslint:recommended"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 2021,
+    "sourceType": "module"
+  },
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "rules": {
+    "semi": ["error", "always"],
+    "quotes": ["error", "single"]
+  }
+}

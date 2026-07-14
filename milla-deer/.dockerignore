@@ -1,0 +1,15 @@
+url: https://raw.githubusercontent.com/mrdannyclark82/milla-deer/3f523dc8ae9b0c1910656e3c5ebf6d70e97433f8/.dockerignore
+
+# build artifacts
+dist
+node_modules
+
+# misc
+.git
+.gitignore
+.dockerignore
+Dockerfile
+docker-compose.yml
+.env
+npm-debug.log
+.DS_Store
