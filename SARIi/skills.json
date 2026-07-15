@@ -1,0 +1,12 @@
+url: https://raw.githubusercontent.com/mrdannyclark82/SARIi/0fae98d4313763a00b43dc01af24b30a99922484/skills.json
+
+{
+  "brag": {
+    "action": "open",
+    "value": "telling me what skills you have"
+  },
+  "be patient": {
+    "action": "open",
+    "value": "listening"
+  }
+}
