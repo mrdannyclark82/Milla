@@ -1,0 +1,9 @@
+url: https://raw.githubusercontent.com/mrdannyclark82/Milla-Gem/00b4fc6539267fe8d29b65b188e1ad9d094cbacc/metadata.json
+
+{
+  "name": "Gemini Virtual Assistant",
+  "description": "An advanced AI virtual assistant powered by Gemini. It supports voice commands, text input, conversation memory, real-time data access, and coding assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
